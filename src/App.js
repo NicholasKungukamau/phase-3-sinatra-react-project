@@ -1,5 +1,5 @@
 import './App.css';
-import { Switch, Route } from "react-router-dom";
+import { Switch, Route } from "react";
 import { useState } from 'react';
 import Home from "./component/Home"
 import NavBar from "./component/NavBar"
